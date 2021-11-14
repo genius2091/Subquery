@@ -1,0 +1,3 @@
+2021-11-14T14:27:58.860Z Error: Directory hello-world exists, try another project name
+2021-11-14T14:27:58.860Z     at Init.run (/usr/lib/node_modules/@subql/cli/lib/commands/init.js:21:19)
+2021-11-14T14:27:58.860Z     at Init._run (/usr/lib/node_modules/@subql/cli/node_modules/@oclif/command/lib/command.js:43:31)
